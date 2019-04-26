@@ -1,0 +1,28 @@
+body{
+  background: black;
+  }
+
+.thumb{
+   cursor: pointer;
+}
+
+video{
+    
+    width: 50%;
+    height: 480px;
+    opacity: 1;
+    left: 50%;
+    position: relative;
+    top: 50%;
+    transform: translate(-50%);
+    
+
+}
+
+.videoNum{
+  
+  text-align: center;
+  color: white;
+  padding-top: 100px;
+  padding-bottom: 10px;
+}
